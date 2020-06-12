@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aLPq/p9eYFZ+II2/nDRP42o9OTF6yssiiuW1WS18qHGuhKsIu2+C050ULlbx0ESCo1EipbkpW4gUE6MzPaJEzA==",
+  "success": true,
+  "projectFilePath": "/home/carlos-pepin/Documents/VisualStudioCodeProjects/ASP_NET_Core_Projects/OdeToFood/OdeToFood.Core/OdeToFood.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/carlos-pepin/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/carlos-pepin/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
